@@ -14,15 +14,15 @@ If you are finding yourself in a tough situation you can always press 'R' to sta
   - Reset round - R
  
 ### Abilities 
-  - Change diemensions - E
+  - Change dimensions - E
  
 ## Notes 
-  - This is game is still work in progress and you may expierence bugs! 
+  - This is game is still work in progress and you may experience bugs! 
   - I do not own the rights for the sound in this game. 
 
 ## Credits 
 ### Music 
-  - Dua lipa - Physical Intstrumental 
+  - Dua lipa - Physical Instrumental 
 
 ## Play 
-If you havent already you can play the game here https://rasmuspetersson.github.io/SpacePrincess/index.html 
+If you haven't already you can play the game here https://rasmuspetersson.github.io/SpacePrincess/index.html 
