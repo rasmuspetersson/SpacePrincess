@@ -22,7 +22,7 @@ If you are finding yourself in a tough situation you can always press 'R' to sta
 
 ## Credits 
 ### Music 
--- Dua lipa - Physical Intstrumental 
+  - Dua lipa - Physical Intstrumental 
 
 ## Play 
 If you havent already you can play the game here https://rasmuspetersson.github.io/SpacePrincess/index.html 
