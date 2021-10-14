@@ -1,6 +1,8 @@
 # SpacePrincess
 A simple 3D flying game made with Unity engine.
 
+![Space Princess](https://raw.githubusercontent.com/rasmuspetersson/rasmuspetersson.github.io/main/assets/images/SpacePrincess/SpacePrincess_3.jpg)
+
 ## Gameplay 
 
 A princess trapped in space with one mission, to save her warrior friends far away in the galaxy! 
